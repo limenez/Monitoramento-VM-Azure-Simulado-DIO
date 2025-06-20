@@ -100,7 +100,35 @@ Nesta seção, **descreva passo a passo como você faria as configurações**, i
 
 -----
 
-## Recursos Utilizados
+## Visão Geral de Métricas no Azure Monitor
+
+Aqui você pode ver uma visão geral de como as métricas são apresentadas no Azure Monitor:
+
+![Visão Geral de Métricas](images/metrics-overview.png)
+
+---
+
+## Explorador de Métricas
+
+O explorador de métricas permite visualizar dados de desempenho detalhados de seus recursos:
+
+![Explorador de Métricas](images/metrics-explorer.png)
+
+---
+
+## Visão Geral de Logs no Azure Monitor
+
+Para entender como os logs são coletados e processados:
+
+![Visão Geral de Logs](images/azure-monitor-logs-overview.png)
+
+---
+
+## Configuração de Alertas
+
+As regras de alerta são configuradas nesta seção para notificar sobre eventos importantes:
+
+![Configuração de Alertas](images/alerts.png)
 
   * **Plataforma DIO:** [Link para a DIO, se quiser]
   * **Microsoft Learn - Configurar o monitoramento de máquinas virtuais:** [Link para a documentação oficial: `https://learn.microsoft.com/pt-br/azure/azure-monitor/vm/monitor-vm-quickstart`]([https://learn.microsoft.com/pt-br/azure/azure-monitor/vm/monitor-vm-quickstart]\(https://learn.microsoft.com/pt-br/azure/azure-monitor/vm/monitor-vm-quickstart\))
